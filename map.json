@@ -47,14 +47,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"usdfhisudhfsiufhsidufhs"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/?Jr7eLrLrJsHl"
+                 "value":"https:\/\/mene-minisites.netlify.app\/bob1.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; fullscreen; display-capture"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
