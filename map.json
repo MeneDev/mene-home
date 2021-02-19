@@ -916,7 +916,7 @@
         {
          "columns":2,
          "firstgid":561,
-         "image":"..\/..\/Downloads\/SNES - Super Mario Kart - Mario.png",
+         "image":"mario.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -994,7 +994,7 @@
         {
          "columns":16,
          "firstgid":973,
-         "image":"..\/..\/Downloads\/rpg-maker-mv-furniture-tile-based-video-game-pixel-art-rpg-maker-vx-bathroom-interior-a8e48e13fd7bd19b3aac0eba8352c3ea.png",
+         "image":"bed.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
